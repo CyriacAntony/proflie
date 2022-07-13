@@ -1,0 +1,1 @@
+1. Make sure ad-blocker, ghostery, etc. know github as a trusted site (so that they won't disable certain features).
